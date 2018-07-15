@@ -8,5 +8,5 @@ To see more options http://wiremock.org/docs/running-standalone/
 
 3. Verify mock API http://localhost:8080/api/mytest
 
-# How to add new API to mock
+# How to mock new API
 Create json file and put under mappings folder. Similar to mytest json file. Refer http://wiremock.org/docs/request-matching/ for complex request matching 
