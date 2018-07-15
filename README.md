@@ -1,4 +1,4 @@
-# wiremock-standalone
+# Sample example on WireMock standalone
 Mocking REST API using WireMock standalone 
 
 # How to run this application
